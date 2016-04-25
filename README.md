@@ -11,8 +11,9 @@ LeetCode OJ的C++代码，题号：1-345，题量：272
 1. 快慢指针
 
 ###String
-1. longest substring without repeating characters: 滑动窗口
-2. longest palindromic substring: Manacher's algorithm
+1. 双指针控制无重复字符字串
+2. Manacher's algorithm
+3. KMP
 
 ###Tree
 
